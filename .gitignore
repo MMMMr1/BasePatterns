@@ -2,7 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea
+.idea/*
+*.class
+*.war
+*.ear
+
 BasePatterns.iml
 ### Eclipse ###
 .apt_generated
